@@ -1,0 +1,22 @@
+.user button {
+    position: relative;
+    padding: 10px 10px;
+    font-size: 15px;
+    line-height: 1.5;
+    border-radius: 30px;
+    color: white;
+    background-color: #b507cc;
+    border: 3px;
+    border-style: solid;
+    border-color: white;
+    overflow: hidden;
+}
+
+.user button input[type='file']{
+    cursor: pointer;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    transform: scale(5);
+    opacity: 0;
+}

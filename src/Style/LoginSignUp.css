@@ -1,0 +1,59 @@
+.backGround {
+    height: 100vh;
+    width: 100%;
+    background-image: url('../assets/img1.jpg');
+    background-position: center;
+    background-size: cover;
+    animation: change 60s infinite ease-in-out;
+    position: relative;
+    background-color: rgb(14, 14, 14);
+}
+
+@keyframes change{
+    0%{
+        background-image: url(../assets/img2.jpg);
+    }
+
+    20%{
+        background-image: url(../assets/img3.webp);
+    }
+
+    40%{
+        background-image: url(../assets/img4.jpg);
+    }
+
+    60%{
+        background-image: url(../assets/img5.jpg);
+    }
+
+    80%{
+        background-image: url(../assets/img6.jpg);
+    }
+
+    100%{
+        background-image: url(../assets/img7.jpg);
+    }
+}
+
+.signup input {
+    outline: none;
+}
+
+
+button {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #ffffff80;
+    text-shadow: none;
+    background: transparent;
+    cursor: pointer;
+    box-shadow: transparent;
+    border: 1px solid #ffffff80;
+    transition: 0.5s ease;
+  }
+  
+  
+  

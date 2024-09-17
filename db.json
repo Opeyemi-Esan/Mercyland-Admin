@@ -1,0 +1,85 @@
+{
+  "property": [
+    {
+      "id": "1",
+      "type": "House",
+      "title": "Opeyemi House",
+      "description": "8 Units of 3 bedrooms flat and a 2 bedroom flats",
+      "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "country": "Lagos State",
+      "address": "Egbeda, Lagos State",
+      "bedrooms": "3 and 2 bedrooms",
+      "bathrooms": "",
+      "surface": "670 sqm",
+      "year": "",
+      "price": "110,000,000"
+    },
+    {
+      "id": "2",
+      "type": "Apartament",
+      "title": "Apartament 1",
+      "description": "A newly built 2 bedroom flat (9 units), The property facing main road. Good road network, Adequate security, Conducive Atmosphere, Electricity and much more!",
+      "image": "https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "country": "Lagos State",
+      "address": "Ibadan Street, Ebute-Metta, Oyingbo, Lagos",
+      "bedrooms": "2",
+      "bathrooms": "",
+      "surface": "sq ft",
+      "year": "2016",
+      "price": "1,500,000"
+    },
+    {
+      "id": "3",
+      "type": "House",
+      "title": "House 2",
+      "description": "A 4 Bedroom flat on a one and half plot of land for sale with 3 shops. The property facing main road.",
+      "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "country": "Lagos State",
+      "address": "Eyita, Sabo-Ikorodu, Lagos.",
+      "bedrooms": "4",
+      "bathrooms": "",
+      "surface": "sq ft",
+      "year": "",
+      "price": "60,000,000"
+    }
+  ],
+  "galleries": [
+    {
+      "id": "1",
+      "galImage": "https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150749.jpg?t=st=1714987282~exp=1714990882~hmac=4a4eed8a13eac8d2d9e706d02281882c0f3186e232ddfac4169ff2b3b5d9bb60&w=996"
+    },
+    {
+      "id": "2",
+      "galImage": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?t=st=1714987324~exp=1714990924~hmac=cd9f29710646db7e5771df685a107820c5767203e62e11ed9d37f3771372ff22&w=996"
+    },
+    {
+      "id": "3",
+      "galImage": "https://img.freepik.com/free-photo/photorealistic-wooden-house-with-timber-structure_23-2151302660.jpg?t=st=1714987492~exp=1714991092~hmac=292a7684a305e8daa7768935786ec4f18b25ba282237809fb1aacc20b5150a03&w=996"
+    },
+    {
+      "id": "4",
+      "galImage": "https://img.freepik.com/free-photo/photorealistic-wooden-house-with-timber-structure_23-2151302667.jpg?t=st=1714987527~exp=1714991127~hmac=e476dc39f4d84decdbc2bf2f564b296f09bdc3e84f7f8611f0d0aaea17ceb605&w=996"
+    },
+    {
+      "id": "3b11",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "user": [
+    {
+      "user": "Otanx",
+      "password": "Opeyemi11"
+    },
+    {
+      "id": "3a6d",
+      "user": "Otanx",
+      "password": "Opeyemi11"
+    },
+    {
+      "id": "18ba",
+      "user": "Otanx",
+      "password": "Opeyemi11"
+    }
+  ]
+}
